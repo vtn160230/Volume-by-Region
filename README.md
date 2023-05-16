@@ -21,7 +21,7 @@ I appreciate your help!
 - Renamed EXT0070122021 and sheet3 based on data in the sheet to something more appropriate and befitting (Volume Data and Geo Data)
 ***
 
-### Data Cleaning and analysis of EXT0070122021/ Volume Data sheet
+### Data Cleaning of EXT0070122021/Volume Data sheet
 - Unwrapped the Volume Data sheet as it looks wrapped and autofit
 - Turned the data into a table and renamed the table to VolumebyClient
 - Filled in the column in the CLID (Client ID) by highlighting the column with ctrl + space and Go to Special (Blanks) and referring to A2 to fill in all the blanks
@@ -36,7 +36,7 @@ I appreciate your help!
 
 ***
 
-### Data Cleaning and analysis of Sheet3/Geo Data sheet
+### Data Cleaning of Sheet3/Geo Data sheet
 
 - Went to Geo Data worksheet and unwrapped and autofit the columns
 - Copied CLID column and pasted Values in another column and checked duplicates because CLID should be unique
