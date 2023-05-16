@@ -32,6 +32,7 @@ I appreciate your help!
 - Created a new column named xlookup region and did a =XLOOKUP(xxx, xxx, xxx) to match the Geo ID with the CLID
 - Did a Index Match using the function =INDEX(GeobyClient[GEOID],MATCH([@CLID],GeobyClient[Right],0)) 
 - Created a Region column and used a =VLOOKUP([@[Index Match Region ID]],GEONames[[GEOID]:[GEO Name]],2,FALSE) to retrieve Regions for the GEO ID
+- Created a Quarter column to match up dates to corresponding quarters using ="Q"&ROUNDUP(MONTH([@Date])/3,0)&" "&YEAR([@Date])
 
 ***
 
