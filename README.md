@@ -1,8 +1,7 @@
 # Volume-by-Region
 
-Case Scenario in the workplace
 
-Basically given an excel file along with an email followed below from a coworker below:
+Case Scenario in the workplace when a coworker sends you a file along with an email explaining the situation below:
 
 Hey,
 
