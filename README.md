@@ -16,7 +16,7 @@ I think they just want to see Q2 2021 volume by region and wanted to know if eve
 I appreciate your help!
 
 *** 
-
+### Starting off
 - Began by creating duplicates of the sheets EXT0070122021 and Sheet3 to have originals I can cross reference to later
 - Renamed EXT0070122021 and sheet3 based on data in the sheet to something more appropriate and befitting (Volume Data and Geo Data)
 ***
