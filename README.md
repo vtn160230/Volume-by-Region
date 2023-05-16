@@ -5,7 +5,7 @@ Case Scenario in the workplace when a coworker sends you a file along with an em
 
 ***
 
-### Email sent with file attachment
+### Email sent with file attachment:
 
 Hey,
 
