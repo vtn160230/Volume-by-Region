@@ -1,7 +1,7 @@
 # Volume-by-Region
 
 
-Case Scenario in the workplace when a coworker sends you a file along with an email explaining the situation below
+A case scenario in the workplace when a coworker sends you a file along with an email explaining the situation below.
 
 ***
 
