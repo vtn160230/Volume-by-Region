@@ -44,3 +44,7 @@ I appreciate your help!
 - Created a new column named Length to check the length of the CLID to look for consistency 
 - Noticed that the CLID in Geo Data has 2 extra characters so I created a new column and ran a =RIGHT( xxx, 7) to get 7 characters starting from the right to match the CLID in Volume Data
 - Create a new column and find the volume for each GEO ID (1001-1004) using =SUMIFS(VolumebyClient[Vol],VolumebyClient[Xlookup Region],[@GEOID])
+
+***
+
+### Analysis with Pivot Table
